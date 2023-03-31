@@ -1,2 +1,2 @@
 # PingPong
-Pong game with unity, fllowed tutorial by Zigurous
+Pong game with unity, following tutorial from Zigurous
